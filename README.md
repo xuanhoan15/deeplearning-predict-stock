@@ -1,2 +1,2 @@
-#  Dự báo giá chứng khoán bằng Model Deep Learning đơn giản
+#  Tạo model dự báo giá đơn giản bằng Deep Learning
 
