@@ -1,2 +1,2 @@
-# Xây dựng mô hình Deep Learning cơ bản để dự báo giá chứng khoán
+#  Dự báo giá chứng khoán bằng Model Deep Learning đơn giản
 
